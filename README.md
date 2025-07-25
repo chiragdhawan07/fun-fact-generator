@@ -34,21 +34,21 @@ Cows moo in regional accents.
 
 ## 🚀 Run It Locally
 
-1. 📥 Clone the repository
+1. 📥 **Clone the repository**
 ```bash
 git clone https://github.com/chiragdhawan07/fun-fact-generator.git
 cd fun-fact-generator
 ```
-2. 📦 Install required library
+2. 📦 **Install required library**
 ```bash
 pip install rich
 ```
-3. ▶️ Start the program
+3. ▶️ **Start the program**
 ```bash
 python fun_fact_generator.py
 ```
-4. 🔁 Keep hitting Enter to explore random fun facts
-Press Ctrl + C to exit whenever you’re done learning (or laughing).
+4. 🔁 **Keep hitting Enter to explore random fun facts
+Press Ctrl + C to exit whenever you’re done learning (or laughing).**
 
 Built with ☕, curiosity, and a sprinkle of Python magic.  
 Keep learning, keep laughing! 😄
